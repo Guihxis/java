@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pratica02 {
+public class MediaMaterias {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

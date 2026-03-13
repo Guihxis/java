@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pratica01 {
+public class IdadeParaVotar {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -17,6 +17,6 @@ public class Pratica01 {
         }   
         
 
-
+ scanner.close();
 }
 }
